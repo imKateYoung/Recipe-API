@@ -1,0 +1,11 @@
+.recipeTile-pic{
+    height: auto;
+    width: 80%;
+    object-fit: cover;
+    border-radius: 0.5em;
+    
+}
+
+.recipeTile-text{
+    text-align: center;
+}
